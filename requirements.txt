@@ -1,0 +1,10 @@
+SpeechRecognition>=3.8.1
+pyttsx3>=2.90
+rapidfuzz>=2.13.7
+requests>=2.31.0
+yt-dlp>=2024.10.19
+
+# audio input without PyAudio
+sounddevice>=0.4.8
+soundfile>=0.12.1
+numpy>=1.26.0
