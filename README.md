@@ -49,7 +49,7 @@ VoiceAssistant/
 1. Clone the repo and change directory
 
 ```powershell
-git clone https://github.com/<your-username>/VoiceAssistant.git
+git clone https://github.com/dumpsterdj/VoiceAssistant.git
 cd VoiceAssistant
 ```
 
